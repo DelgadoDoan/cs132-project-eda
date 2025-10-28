@@ -1,0 +1,1249 @@
+ID,Type,Year,Quarter,HFCE (in million pesos),GVA (in million pesos)
+1,Food and non-alcoholic beverages,2000,Q1,423665,88010
+2,Food and non-alcoholic beverages,2000,Q2,449587,88010
+3,Food and non-alcoholic beverages,2000,Q3,450837,88010
+4,Food and non-alcoholic beverages,2000,Q4,535605,88010
+5,Food and non-alcoholic beverages,2001,Q1,437333,89145
+6,Food and non-alcoholic beverages,2001,Q2,462179,94706
+7,Food and non-alcoholic beverages,2001,Q3,469641,86469
+8,Food and non-alcoholic beverages,2001,Q4,549649,95587
+9,Food and non-alcoholic beverages,2002,Q1,448135,91689
+10,Food and non-alcoholic beverages,2002,Q2,486702,97367
+11,Food and non-alcoholic beverages,2002,Q3,489892,89680
+12,Food and non-alcoholic beverages,2002,Q4,582316,98521
+13,Food and non-alcoholic beverages,2003,Q1,477252,93035
+14,Food and non-alcoholic beverages,2003,Q2,520162,97915
+15,Food and non-alcoholic beverages,2003,Q3,524456,92709
+16,Food and non-alcoholic beverages,2003,Q4,620646,101905
+17,Food and non-alcoholic beverages,2004,Q1,511668,98238
+18,Food and non-alcoholic beverages,2004,Q2,546098,104987
+19,Food and non-alcoholic beverages,2004,Q3,557059,98764
+20,Food and non-alcoholic beverages,2004,Q4,660502,102974
+21,Food and non-alcoholic beverages,2005,Q1,548599,103561
+22,Food and non-alcoholic beverages,2005,Q2,584155,108073
+23,Food and non-alcoholic beverages,2005,Q3,588139,99365
+24,Food and non-alcoholic beverages,2005,Q4,689083,104195
+25,Food and non-alcoholic beverages,2006,Q1,568915,106893
+26,Food and non-alcoholic beverages,2006,Q2,616342,113052
+27,Food and non-alcoholic beverages,2006,Q3,609338,104132
+28,Food and non-alcoholic beverages,2006,Q4,723959,109051
+29,Food and non-alcoholic beverages,2007,Q1,583249,110747
+30,Food and non-alcoholic beverages,2007,Q2,642173,113898
+31,Food and non-alcoholic beverages,2007,Q3,624806,109104
+32,Food and non-alcoholic beverages,2007,Q4,769100,113284
+33,Food and non-alcoholic beverages,2008,Q1,612423,116295
+34,Food and non-alcoholic beverages,2008,Q2,659462,122233
+35,Food and non-alcoholic beverages,2008,Q3,653092,114443
+36,Food and non-alcoholic beverages,2008,Q4,802253,119391
+37,Food and non-alcoholic beverages,2009,Q1,615292,121836
+38,Food and non-alcoholic beverages,2009,Q2,692122,134980
+39,Food and non-alcoholic beverages,2009,Q3,668043,124649
+40,Food and non-alcoholic beverages,2009,Q4,834585,118040
+41,Food and non-alcoholic beverages,2010,Q1,639868,127202
+42,Food and non-alcoholic beverages,2010,Q2,705532,141846
+43,Food and non-alcoholic beverages,2010,Q3,675545,120435
+44,Food and non-alcoholic beverages,2010,Q4,878615,117517
+45,Food and non-alcoholic beverages,2011,Q1,677040,128932
+46,Food and non-alcoholic beverages,2011,Q2,745151,144947
+47,Food and non-alcoholic beverages,2011,Q3,738870,123036
+48,Food and non-alcoholic beverages,2011,Q4,912114,123436
+49,Food and non-alcoholic beverages,2012,Q1,731346,132059
+50,Food and non-alcoholic beverages,2012,Q2,805192,149305
+51,Food and non-alcoholic beverages,2012,Q3,773345,122069
+52,Food and non-alcoholic beverages,2012,Q4,960484,125091
+53,Food and non-alcoholic beverages,2013,Q1,776755,130618
+54,Food and non-alcoholic beverages,2013,Q2,843898,154779
+55,Food and non-alcoholic beverages,2013,Q3,825336,129562
+56,Food and non-alcoholic beverages,2013,Q4,1014632,132333
+57,Food and non-alcoholic beverages,2014,Q1,813527,133101
+58,Food and non-alcoholic beverages,2014,Q2,876162,159908
+59,Food and non-alcoholic beverages,2014,Q3,852033,131335
+60,Food and non-alcoholic beverages,2014,Q4,1071835,133051
+61,Food and non-alcoholic beverages,2015,Q1,851115,145787
+62,Food and non-alcoholic beverages,2015,Q2,933286,169230
+63,Food and non-alcoholic beverages,2015,Q3,896797,137781
+64,Food and non-alcoholic beverages,2015,Q4,1142641,136804
+65,Food and non-alcoholic beverages,2016,Q1,905304,151630
+66,Food and non-alcoholic beverages,2016,Q2,1000300,181355
+67,Food and non-alcoholic beverages,2016,Q3,970620,148338
+68,Food and non-alcoholic beverages,2016,Q4,1210692,145789
+69,Food and non-alcoholic beverages,2017,Q1,956717,165036
+70,Food and non-alcoholic beverages,2017,Q2,1059166,192050
+71,Food and non-alcoholic beverages,2017,Q3,1013129,163398
+72,Food and non-alcoholic beverages,2017,Q4,1275330,151353
+73,Food and non-alcoholic beverages,2018,Q1,1006691,173982
+74,Food and non-alcoholic beverages,2018,Q2,1132968,202749
+75,Food and non-alcoholic beverages,2018,Q3,1045323,181589
+76,Food and non-alcoholic beverages,2018,Q4,1338921,173287
+77,Food and non-alcoholic beverages,2019,Q1,1065738,180592
+78,Food and non-alcoholic beverages,2019,Q2,1195240,224097
+79,Food and non-alcoholic beverages,2019,Q3,1091080,182963
+80,Food and non-alcoholic beverages,2019,Q4,1402836,178437
+81,Food and non-alcoholic beverages,2020,Q1,1116360,184015
+82,Food and non-alcoholic beverages,2020,Q2,1250583,192942
+83,Food and non-alcoholic beverages,2020,Q3,1145023,153300
+84,Food and non-alcoholic beverages,2020,Q4,1476522,157353
+85,Food and non-alcoholic beverages,2021,Q1,1143280,184300
+86,Food and non-alcoholic beverages,2021,Q2,1285705,216890
+87,Food and non-alcoholic beverages,2021,Q3,1178278,173902
+88,Food and non-alcoholic beverages,2021,Q4,1552718,169067
+89,Food and non-alcoholic beverages,2022,Q1,1256130,199045
+90,Food and non-alcoholic beverages,2022,Q2,1357980,227947
+91,Food and non-alcoholic beverages,2022,Q3,1227510,183821
+92,Food and non-alcoholic beverages,2022,Q4,1613838,185341
+93,Food and non-alcoholic beverages,2023,Q1,1265574,211854
+94,Food and non-alcoholic beverages,2023,Q2,1362290,241975
+95,Food and non-alcoholic beverages,2023,Q3,1230791,193200
+96,Food and non-alcoholic beverages,2023,Q4,1626806,197688
+97,Food and non-alcoholic beverages,2024,Q1,1271433,223050
+98,Food and non-alcoholic beverages,2024,Q2,1370268,246599
+99,Food and non-alcoholic beverages,2024,Q3,1270362,201200
+100,Food and non-alcoholic beverages,2024,Q4,1650790,211202
+101,Food and non-alcoholic beverages,2025,Q1,1332005,237869
+102,Food and non-alcoholic beverages,2025,Q2,1448071,275624
+103,Food and non-alcoholic beverages,2025,Q3,,
+104,Food and non-alcoholic beverages,2025,Q4,,
+105,"Alcoholic beverages, tobacco",2000,Q1,42310,88010
+106,"Alcoholic beverages, tobacco",2000,Q2,48905,88010
+107,"Alcoholic beverages, tobacco",2000,Q3,50971,88010
+108,"Alcoholic beverages, tobacco",2000,Q4,50779,88010
+109,"Alcoholic beverages, tobacco",2001,Q1,43624,89145
+110,"Alcoholic beverages, tobacco",2001,Q2,49779,94706
+111,"Alcoholic beverages, tobacco",2001,Q3,52266,86469
+112,"Alcoholic beverages, tobacco",2001,Q4,52345,95587
+113,"Alcoholic beverages, tobacco",2002,Q1,44997,91689
+114,"Alcoholic beverages, tobacco",2002,Q2,51428,97367
+115,"Alcoholic beverages, tobacco",2002,Q3,54240,89680
+116,"Alcoholic beverages, tobacco",2002,Q4,54436,98521
+117,"Alcoholic beverages, tobacco",2003,Q1,47142,93035
+118,"Alcoholic beverages, tobacco",2003,Q2,52999,97915
+119,"Alcoholic beverages, tobacco",2003,Q3,55741,92709
+120,"Alcoholic beverages, tobacco",2003,Q4,56648,101905
+121,"Alcoholic beverages, tobacco",2004,Q1,49255,98238
+122,"Alcoholic beverages, tobacco",2004,Q2,56183,104987
+123,"Alcoholic beverages, tobacco",2004,Q3,57592,98764
+124,"Alcoholic beverages, tobacco",2004,Q4,58963,102974
+125,"Alcoholic beverages, tobacco",2005,Q1,51185,103561
+126,"Alcoholic beverages, tobacco",2005,Q2,57698,108073
+127,"Alcoholic beverages, tobacco",2005,Q3,57252,99365
+128,"Alcoholic beverages, tobacco",2005,Q4,58166,104195
+129,"Alcoholic beverages, tobacco",2006,Q1,52342,106893
+130,"Alcoholic beverages, tobacco",2006,Q2,59410,113052
+131,"Alcoholic beverages, tobacco",2006,Q3,59978,104132
+132,"Alcoholic beverages, tobacco",2006,Q4,58971,109051
+133,"Alcoholic beverages, tobacco",2007,Q1,53697,110747
+134,"Alcoholic beverages, tobacco",2007,Q2,60133,113898
+135,"Alcoholic beverages, tobacco",2007,Q3,62450,109104
+136,"Alcoholic beverages, tobacco",2007,Q4,61771,113284
+137,"Alcoholic beverages, tobacco",2008,Q1,52775,116295
+138,"Alcoholic beverages, tobacco",2008,Q2,62782,122233
+139,"Alcoholic beverages, tobacco",2008,Q3,65975,114443
+140,"Alcoholic beverages, tobacco",2008,Q4,70708,119391
+141,"Alcoholic beverages, tobacco",2009,Q1,51682,121836
+142,"Alcoholic beverages, tobacco",2009,Q2,66218,134980
+143,"Alcoholic beverages, tobacco",2009,Q3,67980,124649
+144,"Alcoholic beverages, tobacco",2009,Q4,75492,118040
+145,"Alcoholic beverages, tobacco",2010,Q1,53265,127202
+146,"Alcoholic beverages, tobacco",2010,Q2,67049,141846
+147,"Alcoholic beverages, tobacco",2010,Q3,63773,120435
+148,"Alcoholic beverages, tobacco",2010,Q4,73691,117517
+149,"Alcoholic beverages, tobacco",2011,Q1,53822,128932
+150,"Alcoholic beverages, tobacco",2011,Q2,67188,144947
+151,"Alcoholic beverages, tobacco",2011,Q3,61571,123036
+152,"Alcoholic beverages, tobacco",2011,Q4,79713,123436
+153,"Alcoholic beverages, tobacco",2012,Q1,56483,132059
+154,"Alcoholic beverages, tobacco",2012,Q2,71377,149305
+155,"Alcoholic beverages, tobacco",2012,Q3,65497,122069
+156,"Alcoholic beverages, tobacco",2012,Q4,84833,125091
+157,"Alcoholic beverages, tobacco",2013,Q1,55374,130618
+158,"Alcoholic beverages, tobacco",2013,Q2,67435,154779
+159,"Alcoholic beverages, tobacco",2013,Q3,66004,129562
+160,"Alcoholic beverages, tobacco",2013,Q4,90997,132333
+161,"Alcoholic beverages, tobacco",2014,Q1,59388,133101
+162,"Alcoholic beverages, tobacco",2014,Q2,77052,159908
+163,"Alcoholic beverages, tobacco",2014,Q3,72638,131335
+164,"Alcoholic beverages, tobacco",2014,Q4,98962,133051
+165,"Alcoholic beverages, tobacco",2015,Q1,68543,145787
+166,"Alcoholic beverages, tobacco",2015,Q2,77559,169230
+167,"Alcoholic beverages, tobacco",2015,Q3,75512,137781
+168,"Alcoholic beverages, tobacco",2015,Q4,101587,136804
+169,"Alcoholic beverages, tobacco",2016,Q1,72953,151630
+170,"Alcoholic beverages, tobacco",2016,Q2,82515,181355
+171,"Alcoholic beverages, tobacco",2016,Q3,80620,148338
+172,"Alcoholic beverages, tobacco",2016,Q4,105488,145789
+173,"Alcoholic beverages, tobacco",2017,Q1,71863,165036
+174,"Alcoholic beverages, tobacco",2017,Q2,83158,192050
+175,"Alcoholic beverages, tobacco",2017,Q3,74642,163398
+176,"Alcoholic beverages, tobacco",2017,Q4,100597,151353
+177,"Alcoholic beverages, tobacco",2018,Q1,67746,173982
+178,"Alcoholic beverages, tobacco",2018,Q2,80511,202749
+179,"Alcoholic beverages, tobacco",2018,Q3,70835,181589
+180,"Alcoholic beverages, tobacco",2018,Q4,94768,173287
+181,"Alcoholic beverages, tobacco",2019,Q1,65258,180592
+182,"Alcoholic beverages, tobacco",2019,Q2,79207,224097
+183,"Alcoholic beverages, tobacco",2019,Q3,70003,182963
+184,"Alcoholic beverages, tobacco",2019,Q4,90784,178437
+185,"Alcoholic beverages, tobacco",2020,Q1,53646,184015
+186,"Alcoholic beverages, tobacco",2020,Q2,46568,192942
+187,"Alcoholic beverages, tobacco",2020,Q3,53300,153300
+188,"Alcoholic beverages, tobacco",2020,Q4,74022,157353
+189,"Alcoholic beverages, tobacco",2021,Q1,47075,184300
+190,"Alcoholic beverages, tobacco",2021,Q2,46958,216890
+191,"Alcoholic beverages, tobacco",2021,Q3,49598,173902
+192,"Alcoholic beverages, tobacco",2021,Q4,66587,169067
+193,"Alcoholic beverages, tobacco",2022,Q1,50554,199045
+194,"Alcoholic beverages, tobacco",2022,Q2,48416,227947
+195,"Alcoholic beverages, tobacco",2022,Q3,43867,183821
+196,"Alcoholic beverages, tobacco",2022,Q4,68965,185341
+197,"Alcoholic beverages, tobacco",2023,Q1,50281,211854
+198,"Alcoholic beverages, tobacco",2023,Q2,44441,241975
+199,"Alcoholic beverages, tobacco",2023,Q3,44464,193200
+200,"Alcoholic beverages, tobacco",2023,Q4,69400,197688
+201,"Alcoholic beverages, tobacco",2024,Q1,49480,223050
+202,"Alcoholic beverages, tobacco",2024,Q2,46554,246599
+203,"Alcoholic beverages, tobacco",2024,Q3,45988,201200
+204,"Alcoholic beverages, tobacco",2024,Q4,71877,211202
+205,"Alcoholic beverages, tobacco",2025,Q1,53066,237869
+206,"Alcoholic beverages, tobacco",2025,Q2,45849,275624
+207,"Alcoholic beverages, tobacco",2025,Q3,,
+208,"Alcoholic beverages, tobacco",2025,Q4,,
+209,Clothing and footwear,2000,Q1,38728,88010
+210,Clothing and footwear,2000,Q2,45919,88010
+211,Clothing and footwear,2000,Q3,46470,88010
+212,Clothing and footwear,2000,Q4,48838,88010
+213,Clothing and footwear,2001,Q1,39465,89145
+214,Clothing and footwear,2001,Q2,46861,94706
+215,Clothing and footwear,2001,Q3,47524,86469
+216,Clothing and footwear,2001,Q4,49888,95587
+217,Clothing and footwear,2002,Q1,41117,91689
+218,Clothing and footwear,2002,Q2,48913,97367
+219,Clothing and footwear,2002,Q3,49767,89680
+220,Clothing and footwear,2002,Q4,51748,98521
+221,Clothing and footwear,2003,Q1,42231,93035
+222,Clothing and footwear,2003,Q2,49731,97915
+223,Clothing and footwear,2003,Q3,49647,92709
+224,Clothing and footwear,2003,Q4,51863,101905
+225,Clothing and footwear,2004,Q1,44474,98238
+226,Clothing and footwear,2004,Q2,51684,104987
+227,Clothing and footwear,2004,Q3,51089,98764
+228,Clothing and footwear,2004,Q4,54471,102974
+229,Clothing and footwear,2005,Q1,45917,103561
+230,Clothing and footwear,2005,Q2,52252,108073
+231,Clothing and footwear,2005,Q3,49363,99365
+232,Clothing and footwear,2005,Q4,55528,104195
+233,Clothing and footwear,2006,Q1,44007,106893
+234,Clothing and footwear,2006,Q2,53554,113052
+235,Clothing and footwear,2006,Q3,49230,104132
+236,Clothing and footwear,2006,Q4,57567,109051
+237,Clothing and footwear,2007,Q1,46853,110747
+238,Clothing and footwear,2007,Q2,54264,113898
+239,Clothing and footwear,2007,Q3,49770,109104
+240,Clothing and footwear,2007,Q4,57557,113284
+241,Clothing and footwear,2008,Q1,49114,116295
+242,Clothing and footwear,2008,Q2,56207,122233
+243,Clothing and footwear,2008,Q3,53106,114443
+244,Clothing and footwear,2008,Q4,59128,119391
+245,Clothing and footwear,2009,Q1,49096,121836
+246,Clothing and footwear,2009,Q2,59059,134980
+247,Clothing and footwear,2009,Q3,53379,124649
+248,Clothing and footwear,2009,Q4,57501,118040
+249,Clothing and footwear,2010,Q1,50846,127202
+250,Clothing and footwear,2010,Q2,60907,141846
+251,Clothing and footwear,2010,Q3,54062,120435
+252,Clothing and footwear,2010,Q4,61460,117517
+253,Clothing and footwear,2011,Q1,53776,128932
+254,Clothing and footwear,2011,Q2,61673,144947
+255,Clothing and footwear,2011,Q3,56888,123036
+256,Clothing and footwear,2011,Q4,64024,123436
+257,Clothing and footwear,2012,Q1,55178,132059
+258,Clothing and footwear,2012,Q2,64721,149305
+259,Clothing and footwear,2012,Q3,58568,122069
+260,Clothing and footwear,2012,Q4,64772,125091
+261,Clothing and footwear,2013,Q1,57126,130618
+262,Clothing and footwear,2013,Q2,61596,154779
+263,Clothing and footwear,2013,Q3,60488,129562
+264,Clothing and footwear,2013,Q4,67746,132333
+265,Clothing and footwear,2014,Q1,63459,133101
+266,Clothing and footwear,2014,Q2,63700,159908
+267,Clothing and footwear,2014,Q3,60839,131335
+268,Clothing and footwear,2014,Q4,71872,133051
+269,Clothing and footwear,2015,Q1,55494,145787
+270,Clothing and footwear,2015,Q2,60633,169230
+271,Clothing and footwear,2015,Q3,63535,137781
+272,Clothing and footwear,2015,Q4,75710,136804
+273,Clothing and footwear,2016,Q1,53011,151630
+274,Clothing and footwear,2016,Q2,59221,181355
+275,Clothing and footwear,2016,Q3,60592,148338
+276,Clothing and footwear,2016,Q4,74725,145789
+277,Clothing and footwear,2017,Q1,56466,165036
+278,Clothing and footwear,2017,Q2,59071,192050
+279,Clothing and footwear,2017,Q3,60087,163398
+280,Clothing and footwear,2017,Q4,75138,151353
+281,Clothing and footwear,2018,Q1,56870,173982
+282,Clothing and footwear,2018,Q2,57975,202749
+283,Clothing and footwear,2018,Q3,59645,181589
+284,Clothing and footwear,2018,Q4,75449,173287
+285,Clothing and footwear,2019,Q1,59216,180592
+286,Clothing and footwear,2019,Q2,61129,224097
+287,Clothing and footwear,2019,Q3,61281,182963
+288,Clothing and footwear,2019,Q4,77924,178437
+289,Clothing and footwear,2020,Q1,59285,184015
+290,Clothing and footwear,2020,Q2,36527,192942
+291,Clothing and footwear,2020,Q3,52720,153300
+292,Clothing and footwear,2020,Q4,67231,157353
+293,Clothing and footwear,2021,Q1,50555,184300
+294,Clothing and footwear,2021,Q2,53519,216890
+295,Clothing and footwear,2021,Q3,67403,173902
+296,Clothing and footwear,2021,Q4,73008,169067
+297,Clothing and footwear,2022,Q1,54768,199045
+298,Clothing and footwear,2022,Q2,56337,227947
+299,Clothing and footwear,2022,Q3,65496,183821
+300,Clothing and footwear,2022,Q4,80474,185341
+301,Clothing and footwear,2023,Q1,53153,211854
+302,Clothing and footwear,2023,Q2,41158,241975
+303,Clothing and footwear,2023,Q3,59280,193200
+304,Clothing and footwear,2023,Q4,78853,197688
+305,Clothing and footwear,2024,Q1,53410,223050
+306,Clothing and footwear,2024,Q2,39263,246599
+307,Clothing and footwear,2024,Q3,62339,201200
+308,Clothing and footwear,2024,Q4,81273,211202
+309,Clothing and footwear,2025,Q1,55499,237869
+310,Clothing and footwear,2025,Q2,40789,275624
+311,Clothing and footwear,2025,Q3,,
+312,Clothing and footwear,2025,Q4,,
+313,"Housing, water, electricity, gas and other fuels",2000,Q1,157847,88010
+314,"Housing, water, electricity, gas and other fuels",2000,Q2,176752,88010
+315,"Housing, water, electricity, gas and other fuels",2000,Q3,170154,88010
+316,"Housing, water, electricity, gas and other fuels",2000,Q4,159517,88010
+317,"Housing, water, electricity, gas and other fuels",2001,Q1,165114,89145
+318,"Housing, water, electricity, gas and other fuels",2001,Q2,183939,94706
+319,"Housing, water, electricity, gas and other fuels",2001,Q3,176590,86469
+320,"Housing, water, electricity, gas and other fuels",2001,Q4,165989,95587
+321,"Housing, water, electricity, gas and other fuels",2002,Q1,160650,91689
+322,"Housing, water, electricity, gas and other fuels",2002,Q2,186133,97367
+323,"Housing, water, electricity, gas and other fuels",2002,Q3,179486,89680
+324,"Housing, water, electricity, gas and other fuels",2002,Q4,168999,98521
+325,"Housing, water, electricity, gas and other fuels",2003,Q1,173157,93035
+326,"Housing, water, electricity, gas and other fuels",2003,Q2,198936,97915
+327,"Housing, water, electricity, gas and other fuels",2003,Q3,188607,92709
+328,"Housing, water, electricity, gas and other fuels",2003,Q4,176054,101905
+329,"Housing, water, electricity, gas and other fuels",2004,Q1,179195,98238
+330,"Housing, water, electricity, gas and other fuels",2004,Q2,202909,104987
+331,"Housing, water, electricity, gas and other fuels",2004,Q3,193890,98764
+332,"Housing, water, electricity, gas and other fuels",2004,Q4,183649,102974
+333,"Housing, water, electricity, gas and other fuels",2005,Q1,189028,103561
+334,"Housing, water, electricity, gas and other fuels",2005,Q2,221286,108073
+335,"Housing, water, electricity, gas and other fuels",2005,Q3,212160,99365
+336,"Housing, water, electricity, gas and other fuels",2005,Q4,196929,104195
+337,"Housing, water, electricity, gas and other fuels",2006,Q1,197006,106893
+338,"Housing, water, electricity, gas and other fuels",2006,Q2,230205,113052
+339,"Housing, water, electricity, gas and other fuels",2006,Q3,213608,104132
+340,"Housing, water, electricity, gas and other fuels",2006,Q4,205863,109051
+341,"Housing, water, electricity, gas and other fuels",2007,Q1,208162,110747
+342,"Housing, water, electricity, gas and other fuels",2007,Q2,242271,113898
+343,"Housing, water, electricity, gas and other fuels",2007,Q3,229549,109104
+344,"Housing, water, electricity, gas and other fuels",2007,Q4,212949,113284
+345,"Housing, water, electricity, gas and other fuels",2008,Q1,219868,116295
+346,"Housing, water, electricity, gas and other fuels",2008,Q2,249177,122233
+347,"Housing, water, electricity, gas and other fuels",2008,Q3,236850,114443
+348,"Housing, water, electricity, gas and other fuels",2008,Q4,223141,119391
+349,"Housing, water, electricity, gas and other fuels",2009,Q1,233674,121836
+350,"Housing, water, electricity, gas and other fuels",2009,Q2,249238,134980
+351,"Housing, water, electricity, gas and other fuels",2009,Q3,228289,124649
+352,"Housing, water, electricity, gas and other fuels",2009,Q4,222243,118040
+353,"Housing, water, electricity, gas and other fuels",2010,Q1,243405,127202
+354,"Housing, water, electricity, gas and other fuels",2010,Q2,250917,141846
+355,"Housing, water, electricity, gas and other fuels",2010,Q3,232006,120435
+356,"Housing, water, electricity, gas and other fuels",2010,Q4,235306,117517
+357,"Housing, water, electricity, gas and other fuels",2011,Q1,247732,128932
+358,"Housing, water, electricity, gas and other fuels",2011,Q2,260932,144947
+359,"Housing, water, electricity, gas and other fuels",2011,Q3,231562,123036
+360,"Housing, water, electricity, gas and other fuels",2011,Q4,249327,123436
+361,"Housing, water, electricity, gas and other fuels",2012,Q1,260637,132059
+362,"Housing, water, electricity, gas and other fuels",2012,Q2,270191,149305
+363,"Housing, water, electricity, gas and other fuels",2012,Q3,255242,122069
+364,"Housing, water, electricity, gas and other fuels",2012,Q4,264291,125091
+365,"Housing, water, electricity, gas and other fuels",2013,Q1,262305,130618
+366,"Housing, water, electricity, gas and other fuels",2013,Q2,292900,154779
+367,"Housing, water, electricity, gas and other fuels",2013,Q3,283863,129562
+368,"Housing, water, electricity, gas and other fuels",2013,Q4,286095,132333
+369,"Housing, water, electricity, gas and other fuels",2014,Q1,275121,133101
+370,"Housing, water, electricity, gas and other fuels",2014,Q2,308265,159908
+371,"Housing, water, electricity, gas and other fuels",2014,Q3,299385,131335
+372,"Housing, water, electricity, gas and other fuels",2014,Q4,303652,133051
+373,"Housing, water, electricity, gas and other fuels",2015,Q1,291300,145787
+374,"Housing, water, electricity, gas and other fuels",2015,Q2,328046,169230
+375,"Housing, water, electricity, gas and other fuels",2015,Q3,300527,137781
+376,"Housing, water, electricity, gas and other fuels",2015,Q4,307611,136804
+377,"Housing, water, electricity, gas and other fuels",2016,Q1,322037,151630
+378,"Housing, water, electricity, gas and other fuels",2016,Q2,349833,181355
+379,"Housing, water, electricity, gas and other fuels",2016,Q3,315057,148338
+380,"Housing, water, electricity, gas and other fuels",2016,Q4,328936,145789
+381,"Housing, water, electricity, gas and other fuels",2017,Q1,339302,165036
+382,"Housing, water, electricity, gas and other fuels",2017,Q2,370699,192050
+383,"Housing, water, electricity, gas and other fuels",2017,Q3,335897,163398
+384,"Housing, water, electricity, gas and other fuels",2017,Q4,363930,151353
+385,"Housing, water, electricity, gas and other fuels",2018,Q1,370453,173982
+386,"Housing, water, electricity, gas and other fuels",2018,Q2,404525,202749
+387,"Housing, water, electricity, gas and other fuels",2018,Q3,365616,181589
+388,"Housing, water, electricity, gas and other fuels",2018,Q4,384536,173287
+389,"Housing, water, electricity, gas and other fuels",2019,Q1,394240,180592
+390,"Housing, water, electricity, gas and other fuels",2019,Q2,426008,224097
+391,"Housing, water, electricity, gas and other fuels",2019,Q3,393878,182963
+392,"Housing, water, electricity, gas and other fuels",2019,Q4,406111,178437
+393,"Housing, water, electricity, gas and other fuels",2020,Q1,403692,184015
+394,"Housing, water, electricity, gas and other fuels",2020,Q2,457352,192942
+395,"Housing, water, electricity, gas and other fuels",2020,Q3,421121,153300
+396,"Housing, water, electricity, gas and other fuels",2020,Q4,431617,157353
+397,"Housing, water, electricity, gas and other fuels",2021,Q1,402798,184300
+398,"Housing, water, electricity, gas and other fuels",2021,Q2,487550,216890
+399,"Housing, water, electricity, gas and other fuels",2021,Q3,434548,173902
+400,"Housing, water, electricity, gas and other fuels",2021,Q4,443648,169067
+401,"Housing, water, electricity, gas and other fuels",2022,Q1,425390,199045
+402,"Housing, water, electricity, gas and other fuels",2022,Q2,522473,227947
+403,"Housing, water, electricity, gas and other fuels",2022,Q3,440354,183821
+404,"Housing, water, electricity, gas and other fuels",2022,Q4,462970,185341
+405,"Housing, water, electricity, gas and other fuels",2023,Q1,440944,211854
+406,"Housing, water, electricity, gas and other fuels",2023,Q2,553704,241975
+407,"Housing, water, electricity, gas and other fuels",2023,Q3,459676,193200
+408,"Housing, water, electricity, gas and other fuels",2023,Q4,483347,197688
+409,"Housing, water, electricity, gas and other fuels",2024,Q1,473820,223050
+410,"Housing, water, electricity, gas and other fuels",2024,Q2,587194,246599
+411,"Housing, water, electricity, gas and other fuels",2024,Q3,476721,201200
+412,"Housing, water, electricity, gas and other fuels",2024,Q4,501037,211202
+413,"Housing, water, electricity, gas and other fuels",2025,Q1,484091,237869
+414,"Housing, water, electricity, gas and other fuels",2025,Q2,591656,275624
+415,"Housing, water, electricity, gas and other fuels",2025,Q3,,
+416,"Housing, water, electricity, gas and other fuels",2025,Q4,,
+417,"Furnishings, household equipment and routine household maintenance",2000,Q1,44555,88010
+418,"Furnishings, household equipment and routine household maintenance",2000,Q2,46651,88010
+419,"Furnishings, household equipment and routine household maintenance",2000,Q3,48668,88010
+420,"Furnishings, household equipment and routine household maintenance",2000,Q4,53520,88010
+421,"Furnishings, household equipment and routine household maintenance",2001,Q1,49721,89145
+422,"Furnishings, household equipment and routine household maintenance",2001,Q2,52748,94706
+423,"Furnishings, household equipment and routine household maintenance",2001,Q3,52406,86469
+424,"Furnishings, household equipment and routine household maintenance",2001,Q4,55801,95587
+425,"Furnishings, household equipment and routine household maintenance",2002,Q1,51624,91689
+426,"Furnishings, household equipment and routine household maintenance",2002,Q2,55769,97367
+427,"Furnishings, household equipment and routine household maintenance",2002,Q3,53323,89680
+428,"Furnishings, household equipment and routine household maintenance",2002,Q4,57622,98521
+429,"Furnishings, household equipment and routine household maintenance",2003,Q1,51037,93035
+430,"Furnishings, household equipment and routine household maintenance",2003,Q2,56880,97915
+431,"Furnishings, household equipment and routine household maintenance",2003,Q3,53714,92709
+432,"Furnishings, household equipment and routine household maintenance",2003,Q4,62359,101905
+433,"Furnishings, household equipment and routine household maintenance",2004,Q1,55407,98238
+434,"Furnishings, household equipment and routine household maintenance",2004,Q2,64161,104987
+435,"Furnishings, household equipment and routine household maintenance",2004,Q3,59679,98764
+436,"Furnishings, household equipment and routine household maintenance",2004,Q4,68288,102974
+437,"Furnishings, household equipment and routine household maintenance",2005,Q1,57550,103561
+438,"Furnishings, household equipment and routine household maintenance",2005,Q2,66795,108073
+439,"Furnishings, household equipment and routine household maintenance",2005,Q3,58874,99365
+440,"Furnishings, household equipment and routine household maintenance",2005,Q4,70434,104195
+441,"Furnishings, household equipment and routine household maintenance",2006,Q1,60972,106893
+442,"Furnishings, household equipment and routine household maintenance",2006,Q2,72429,113052
+443,"Furnishings, household equipment and routine household maintenance",2006,Q3,62202,104132
+444,"Furnishings, household equipment and routine household maintenance",2006,Q4,76844,109051
+445,"Furnishings, household equipment and routine household maintenance",2007,Q1,64445,110747
+446,"Furnishings, household equipment and routine household maintenance",2007,Q2,74875,113898
+447,"Furnishings, household equipment and routine household maintenance",2007,Q3,60323,109104
+448,"Furnishings, household equipment and routine household maintenance",2007,Q4,73747,113284
+449,"Furnishings, household equipment and routine household maintenance",2008,Q1,65861,116295
+450,"Furnishings, household equipment and routine household maintenance",2008,Q2,74580,122233
+451,"Furnishings, household equipment and routine household maintenance",2008,Q3,63155,114443
+452,"Furnishings, household equipment and routine household maintenance",2008,Q4,71504,119391
+453,"Furnishings, household equipment and routine household maintenance",2009,Q1,66456,121836
+454,"Furnishings, household equipment and routine household maintenance",2009,Q2,75770,134980
+455,"Furnishings, household equipment and routine household maintenance",2009,Q3,60935,124649
+456,"Furnishings, household equipment and routine household maintenance",2009,Q4,72885,118040
+457,"Furnishings, household equipment and routine household maintenance",2010,Q1,68315,127202
+458,"Furnishings, household equipment and routine household maintenance",2010,Q2,77743,141846
+459,"Furnishings, household equipment and routine household maintenance",2010,Q3,63308,120435
+460,"Furnishings, household equipment and routine household maintenance",2010,Q4,77381,117517
+461,"Furnishings, household equipment and routine household maintenance",2011,Q1,71794,128932
+462,"Furnishings, household equipment and routine household maintenance",2011,Q2,84425,144947
+463,"Furnishings, household equipment and routine household maintenance",2011,Q3,67010,123036
+464,"Furnishings, household equipment and routine household maintenance",2011,Q4,82313,123436
+465,"Furnishings, household equipment and routine household maintenance",2012,Q1,73790,132059
+466,"Furnishings, household equipment and routine household maintenance",2012,Q2,86137,149305
+467,"Furnishings, household equipment and routine household maintenance",2012,Q3,71823,122069
+468,"Furnishings, household equipment and routine household maintenance",2012,Q4,83431,125091
+469,"Furnishings, household equipment and routine household maintenance",2013,Q1,77425,130618
+470,"Furnishings, household equipment and routine household maintenance",2013,Q2,81786,154779
+471,"Furnishings, household equipment and routine household maintenance",2013,Q3,76100,129562
+472,"Furnishings, household equipment and routine household maintenance",2013,Q4,86023,132333
+473,"Furnishings, household equipment and routine household maintenance",2014,Q1,83872,133101
+474,"Furnishings, household equipment and routine household maintenance",2014,Q2,85461,159908
+475,"Furnishings, household equipment and routine household maintenance",2014,Q3,78988,131335
+476,"Furnishings, household equipment and routine household maintenance",2014,Q4,87930,133051
+477,"Furnishings, household equipment and routine household maintenance",2015,Q1,86435,145787
+478,"Furnishings, household equipment and routine household maintenance",2015,Q2,86901,169230
+479,"Furnishings, household equipment and routine household maintenance",2015,Q3,80259,137781
+480,"Furnishings, household equipment and routine household maintenance",2015,Q4,91910,136804
+481,"Furnishings, household equipment and routine household maintenance",2016,Q1,92343,151630
+482,"Furnishings, household equipment and routine household maintenance",2016,Q2,88559,181355
+483,"Furnishings, household equipment and routine household maintenance",2016,Q3,81014,148338
+484,"Furnishings, household equipment and routine household maintenance",2016,Q4,93364,145789
+485,"Furnishings, household equipment and routine household maintenance",2017,Q1,94410,165036
+486,"Furnishings, household equipment and routine household maintenance",2017,Q2,91218,192050
+487,"Furnishings, household equipment and routine household maintenance",2017,Q3,90719,163398
+488,"Furnishings, household equipment and routine household maintenance",2017,Q4,103695,151353
+489,"Furnishings, household equipment and routine household maintenance",2018,Q1,99222,173982
+490,"Furnishings, household equipment and routine household maintenance",2018,Q2,97085,202749
+491,"Furnishings, household equipment and routine household maintenance",2018,Q3,97018,181589
+492,"Furnishings, household equipment and routine household maintenance",2018,Q4,109102,173287
+493,"Furnishings, household equipment and routine household maintenance",2019,Q1,103430,180592
+494,"Furnishings, household equipment and routine household maintenance",2019,Q2,100902,224097
+495,"Furnishings, household equipment and routine household maintenance",2019,Q3,102426,182963
+496,"Furnishings, household equipment and routine household maintenance",2019,Q4,115300,178437
+497,"Furnishings, household equipment and routine household maintenance",2020,Q1,93673,184015
+498,"Furnishings, household equipment and routine household maintenance",2020,Q2,73656,192942
+499,"Furnishings, household equipment and routine household maintenance",2020,Q3,91757,153300
+500,"Furnishings, household equipment and routine household maintenance",2020,Q4,108406,157353
+501,"Furnishings, household equipment and routine household maintenance",2021,Q1,88236,184300
+502,"Furnishings, household equipment and routine household maintenance",2021,Q2,85147,216890
+503,"Furnishings, household equipment and routine household maintenance",2021,Q3,98817,173902
+504,"Furnishings, household equipment and routine household maintenance",2021,Q4,107528,169067
+505,"Furnishings, household equipment and routine household maintenance",2022,Q1,95996,199045
+506,"Furnishings, household equipment and routine household maintenance",2022,Q2,91625,227947
+507,"Furnishings, household equipment and routine household maintenance",2022,Q3,107923,183821
+508,"Furnishings, household equipment and routine household maintenance",2022,Q4,116880,185341
+509,"Furnishings, household equipment and routine household maintenance",2023,Q1,93612,211854
+510,"Furnishings, household equipment and routine household maintenance",2023,Q2,89372,241975
+511,"Furnishings, household equipment and routine household maintenance",2023,Q3,107537,193200
+512,"Furnishings, household equipment and routine household maintenance",2023,Q4,117557,197688
+513,"Furnishings, household equipment and routine household maintenance",2024,Q1,96377,223050
+514,"Furnishings, household equipment and routine household maintenance",2024,Q2,91407,246599
+515,"Furnishings, household equipment and routine household maintenance",2024,Q3,110512,201200
+516,"Furnishings, household equipment and routine household maintenance",2024,Q4,122825,211202
+517,"Furnishings, household equipment and routine household maintenance",2025,Q1,97512,237869
+518,"Furnishings, household equipment and routine household maintenance",2025,Q2,91772,275624
+519,"Furnishings, household equipment and routine household maintenance",2025,Q3,,
+520,"Furnishings, household equipment and routine household maintenance",2025,Q4,,
+521,Health,2000,Q1,40984,88010
+522,Health,2000,Q2,41902,88010
+523,Health,2000,Q3,46580,88010
+524,Health,2000,Q4,45466,88010
+525,Health,2001,Q1,44256,89145
+526,Health,2001,Q2,43295,94706
+527,Health,2001,Q3,48458,86469
+528,Health,2001,Q4,47768,95587
+529,Health,2002,Q1,47024,91689
+530,Health,2002,Q2,45599,97367
+531,Health,2002,Q3,50533,89680
+532,Health,2002,Q4,49541,98521
+533,Health,2003,Q1,48292,93035
+534,Health,2003,Q2,47764,97915
+535,Health,2003,Q3,52691,92709
+536,Health,2003,Q4,51738,101905
+537,Health,2004,Q1,51544,98238
+538,Health,2004,Q2,51256,104987
+539,Health,2004,Q3,57106,98764
+540,Health,2004,Q4,55824,102974
+541,Health,2005,Q1,54643,103561
+542,Health,2005,Q2,56918,108073
+543,Health,2005,Q3,60422,99365
+544,Health,2005,Q4,59386,104195
+545,Health,2006,Q1,56242,106893
+546,Health,2006,Q2,57757,113052
+547,Health,2006,Q3,62552,104132
+548,Health,2006,Q4,62684,109051
+549,Health,2007,Q1,59160,110747
+550,Health,2007,Q2,59953,113898
+551,Health,2007,Q3,64278,109104
+552,Health,2007,Q4,64327,113284
+553,Health,2008,Q1,63250,116295
+554,Health,2008,Q2,61969,122233
+555,Health,2008,Q3,65174,114443
+556,Health,2008,Q4,62746,119391
+557,Health,2009,Q1,63204,121836
+558,Health,2009,Q2,65078,134980
+559,Health,2009,Q3,67782,124649
+560,Health,2009,Q4,66138,118040
+561,Health,2010,Q1,66807,127202
+562,Health,2010,Q2,65889,141846
+563,Health,2010,Q3,76670,120435
+564,Health,2010,Q4,69601,117517
+565,Health,2011,Q1,71904,128932
+566,Health,2011,Q2,70532,144947
+567,Health,2011,Q3,81891,123036
+568,Health,2011,Q4,75563,123436
+569,Health,2012,Q1,81372,132059
+570,Health,2012,Q2,80613,149305
+571,Health,2012,Q3,92754,122069
+572,Health,2012,Q4,81256,125091
+573,Health,2013,Q1,83865,130618
+574,Health,2013,Q2,85679,154779
+575,Health,2013,Q3,99859,129562
+576,Health,2013,Q4,88521,132333
+577,Health,2014,Q1,89126,133101
+578,Health,2014,Q2,93119,159908
+579,Health,2014,Q3,112786,131335
+580,Health,2014,Q4,96459,133051
+581,Health,2015,Q1,96516,145787
+582,Health,2015,Q2,101991,169230
+583,Health,2015,Q3,120721,137781
+584,Health,2015,Q4,107034,136804
+585,Health,2016,Q1,106121,151630
+586,Health,2016,Q2,110649,181355
+587,Health,2016,Q3,132530,148338
+588,Health,2016,Q4,116301,145789
+589,Health,2017,Q1,115862,165036
+590,Health,2017,Q2,120354,192050
+591,Health,2017,Q3,143571,163398
+592,Health,2017,Q4,126862,151353
+593,Health,2018,Q1,122718,173982
+594,Health,2018,Q2,122378,202749
+595,Health,2018,Q3,149773,181589
+596,Health,2018,Q4,132656,173287
+597,Health,2019,Q1,129016,180592
+598,Health,2019,Q2,128739,224097
+599,Health,2019,Q3,159847,182963
+600,Health,2019,Q4,142260,178437
+601,Health,2020,Q1,139511,184015
+602,Health,2020,Q2,112319,192942
+603,Health,2020,Q3,156313,153300
+604,Health,2020,Q4,138394,157353
+605,Health,2021,Q1,149876,184300
+606,Health,2021,Q2,130214,216890
+607,Health,2021,Q3,181924,173902
+608,Health,2021,Q4,162065,169067
+609,Health,2022,Q1,151600,199045
+610,Health,2022,Q2,126262,227947
+611,Health,2022,Q3,191718,183821
+612,Health,2022,Q4,170921,185341
+613,Health,2023,Q1,163223,211854
+614,Health,2023,Q2,138034,241975
+615,Health,2023,Q3,202630,193200
+616,Health,2023,Q4,182361,197688
+617,Health,2024,Q1,175292,223050
+618,Health,2024,Q2,151039,246599
+619,Health,2024,Q3,225160,201200
+620,Health,2024,Q4,203232,211202
+621,Health,2025,Q1,192861,237869
+622,Health,2025,Q2,166209,275624
+623,Health,2025,Q3,,
+624,Health,2025,Q4,,
+625,Transport,2000,Q1,145070,88010
+626,Transport,2000,Q2,162306,88010
+627,Transport,2000,Q3,146571,88010
+628,Transport,2000,Q4,159835,88010
+629,Transport,2001,Q1,149007,89145
+630,Transport,2001,Q2,166412,94706
+631,Transport,2001,Q3,152611,86469
+632,Transport,2001,Q4,167369,95587
+633,Transport,2002,Q1,157887,91689
+634,Transport,2002,Q2,175851,97367
+635,Transport,2002,Q3,160280,89680
+636,Transport,2002,Q4,173243,98521
+637,Transport,2003,Q1,161565,93035
+638,Transport,2003,Q2,181115,97915
+639,Transport,2003,Q3,164226,92709
+640,Transport,2003,Q4,177172,101905
+641,Transport,2004,Q1,166355,98238
+642,Transport,2004,Q2,197270,104987
+643,Transport,2004,Q3,171054,98764
+644,Transport,2004,Q4,181760,102974
+645,Transport,2005,Q1,175473,103561
+646,Transport,2005,Q2,198584,108073
+647,Transport,2005,Q3,172030,99365
+648,Transport,2005,Q4,182602,104195
+649,Transport,2006,Q1,174348,106893
+650,Transport,2006,Q2,200299,113052
+651,Transport,2006,Q3,174345,104132
+652,Transport,2006,Q4,190520,109051
+653,Transport,2007,Q1,186305,110747
+654,Transport,2007,Q2,212910,113898
+655,Transport,2007,Q3,183930,109104
+656,Transport,2007,Q4,202784,113284
+657,Transport,2008,Q1,199364,116295
+658,Transport,2008,Q2,221843,122233
+659,Transport,2008,Q3,179616,114443
+660,Transport,2008,Q4,202362,119391
+661,Transport,2009,Q1,205229,121836
+662,Transport,2009,Q2,229109,134980
+663,Transport,2009,Q3,185539,124649
+664,Transport,2009,Q4,205284,118040
+665,Transport,2010,Q1,209443,127202
+666,Transport,2010,Q2,238327,141846
+667,Transport,2010,Q3,199208,120435
+668,Transport,2010,Q4,217017,117517
+669,Transport,2011,Q1,225274,128932
+670,Transport,2011,Q2,238298,144947
+671,Transport,2011,Q3,205474,123036
+672,Transport,2011,Q4,221092,123436
+673,Transport,2012,Q1,238900,132059
+674,Transport,2012,Q2,242080,149305
+675,Transport,2012,Q3,230530,122069
+676,Transport,2012,Q4,232629,125091
+677,Transport,2013,Q1,254908,130618
+678,Transport,2013,Q2,258619,154779
+679,Transport,2013,Q3,238230,129562
+680,Transport,2013,Q4,248170,132333
+681,Transport,2014,Q1,282855,133101
+682,Transport,2014,Q2,287998,159908
+683,Transport,2014,Q3,258069,131335
+684,Transport,2014,Q4,267773,133051
+685,Transport,2015,Q1,326064,145787
+686,Transport,2015,Q2,322265,169230
+687,Transport,2015,Q3,286749,137781
+688,Transport,2015,Q4,285976,136804
+689,Transport,2016,Q1,348469,151630
+690,Transport,2016,Q2,356137,181355
+691,Transport,2016,Q3,322664,148338
+692,Transport,2016,Q4,320374,145789
+693,Transport,2017,Q1,372431,165036
+694,Transport,2017,Q2,379999,192050
+695,Transport,2017,Q3,332208,163398
+696,Transport,2017,Q4,327110,151353
+697,Transport,2018,Q1,382728,173982
+698,Transport,2018,Q2,386090,202749
+699,Transport,2018,Q3,336748,181589
+700,Transport,2018,Q4,329161,173287
+701,Transport,2019,Q1,404217,180592
+702,Transport,2019,Q2,398600,224097
+703,Transport,2019,Q3,359025,182963
+704,Transport,2019,Q4,346495,178437
+705,Transport,2020,Q1,374107,184015
+706,Transport,2020,Q2,158887,192942
+707,Transport,2020,Q3,231892,153300
+708,Transport,2020,Q4,239987,157353
+709,Transport,2021,Q1,269106,184300
+710,Transport,2021,Q2,189405,216890
+711,Transport,2021,Q3,272140,173902
+712,Transport,2021,Q4,275543,169067
+713,Transport,2022,Q1,312380,199045
+714,Transport,2022,Q2,238061,227947
+715,Transport,2022,Q3,325881,183821
+716,Transport,2022,Q4,297653,185341
+717,Transport,2023,Q1,357466,211854
+718,Transport,2023,Q2,308874,241975
+719,Transport,2023,Q3,372911,193200
+720,Transport,2023,Q4,333613,197688
+721,Transport,2024,Q1,384446,223050
+722,Transport,2024,Q2,345701,246599
+723,Transport,2024,Q3,397004,201200
+724,Transport,2024,Q4,369251,211202
+725,Transport,2025,Q1,417148,237869
+726,Transport,2025,Q2,384280,275624
+727,Transport,2025,Q3,,
+728,Transport,2025,Q4,,
+729,Communication,2000,Q1,15208,88010
+730,Communication,2000,Q2,17579,88010
+731,Communication,2000,Q3,18146,88010
+732,Communication,2000,Q4,21783,88010
+733,Communication,2001,Q1,19480,89145
+734,Communication,2001,Q2,21705,94706
+735,Communication,2001,Q3,22227,86469
+736,Communication,2001,Q4,27590,95587
+737,Communication,2002,Q1,23818,91689
+738,Communication,2002,Q2,25848,97367
+739,Communication,2002,Q3,25083,89680
+740,Communication,2002,Q4,32325,98521
+741,Communication,2003,Q1,28570,93035
+742,Communication,2003,Q2,31684,97915
+743,Communication,2003,Q3,30258,92709
+744,Communication,2003,Q4,39948,101905
+745,Communication,2004,Q1,34698,98238
+746,Communication,2004,Q2,39022,104987
+747,Communication,2004,Q3,37034,98764
+748,Communication,2004,Q4,47686,102974
+749,Communication,2005,Q1,42112,103561
+750,Communication,2005,Q2,45759,108073
+751,Communication,2005,Q3,40466,99365
+752,Communication,2005,Q4,53916,104195
+753,Communication,2006,Q1,46019,106893
+754,Communication,2006,Q2,47726,113052
+755,Communication,2006,Q3,42069,104132
+756,Communication,2006,Q4,56623,109051
+757,Communication,2007,Q1,52275,110747
+758,Communication,2007,Q2,55263,113898
+759,Communication,2007,Q3,45847,109104
+760,Communication,2007,Q4,62832,113284
+761,Communication,2008,Q1,55070,116295
+762,Communication,2008,Q2,56451,122233
+763,Communication,2008,Q3,48399,114443
+764,Communication,2008,Q4,66857,119391
+765,Communication,2009,Q1,59640,121836
+766,Communication,2009,Q2,58012,134980
+767,Communication,2009,Q3,48205,124649
+768,Communication,2009,Q4,64723,118040
+769,Communication,2010,Q1,58923,127202
+770,Communication,2010,Q2,59685,141846
+771,Communication,2010,Q3,48786,120435
+772,Communication,2010,Q4,64856,117517
+773,Communication,2011,Q1,59822,128932
+774,Communication,2011,Q2,61255,144947
+775,Communication,2011,Q3,50421,123036
+776,Communication,2011,Q4,66344,123436
+777,Communication,2012,Q1,65026,132059
+778,Communication,2012,Q2,67157,149305
+779,Communication,2012,Q3,55722,122069
+780,Communication,2012,Q4,73446,125091
+781,Communication,2013,Q1,70639,130618
+782,Communication,2013,Q2,72318,154779
+783,Communication,2013,Q3,59324,129562
+784,Communication,2013,Q4,76863,132333
+785,Communication,2014,Q1,74277,133101
+786,Communication,2014,Q2,72212,159908
+787,Communication,2014,Q3,61142,131335
+788,Communication,2014,Q4,79696,133051
+789,Communication,2015,Q1,77858,145787
+790,Communication,2015,Q2,76410,169230
+791,Communication,2015,Q3,67452,137781
+792,Communication,2015,Q4,90476,136804
+793,Communication,2016,Q1,81781,151630
+794,Communication,2016,Q2,80790,181355
+795,Communication,2016,Q3,68003,148338
+796,Communication,2016,Q4,92209,145789
+797,Communication,2017,Q1,82927,165036
+798,Communication,2017,Q2,81430,192050
+799,Communication,2017,Q3,71559,163398
+800,Communication,2017,Q4,97429,151353
+801,Communication,2018,Q1,88923,173982
+802,Communication,2018,Q2,87205,202749
+803,Communication,2018,Q3,73268,181589
+804,Communication,2018,Q4,101918,173287
+805,Communication,2019,Q1,96437,180592
+806,Communication,2019,Q2,92104,224097
+807,Communication,2019,Q3,78501,182963
+808,Communication,2019,Q4,108850,178437
+809,Communication,2020,Q1,101391,184015
+810,Communication,2020,Q2,100032,192942
+811,Communication,2020,Q3,83857,153300
+812,Communication,2020,Q4,113288,157353
+813,Communication,2021,Q1,108331,184300
+814,Communication,2021,Q2,113724,216890
+815,Communication,2021,Q3,90194,173902
+816,Communication,2021,Q4,122470,169067
+817,Communication,2022,Q1,115630,199045
+818,Communication,2022,Q2,124021,227947
+819,Communication,2022,Q3,96422,183821
+820,Communication,2022,Q4,130249,185341
+821,Communication,2023,Q1,120846,211854
+822,Communication,2023,Q2,129982,241975
+823,Communication,2023,Q3,100933,193200
+824,Communication,2023,Q4,136075,197688
+825,Communication,2024,Q1,126704,223050
+826,Communication,2024,Q2,139282,246599
+827,Communication,2024,Q3,105274,201200
+828,Communication,2024,Q4,141272,211202
+829,Communication,2025,Q1,133690,237869
+830,Communication,2025,Q2,145781,275624
+831,Communication,2025,Q3,,
+832,Communication,2025,Q4,,
+833,Recreation and culture,2000,Q1,24851,88010
+834,Recreation and culture,2000,Q2,27243,88010
+835,Recreation and culture,2000,Q3,28798,88010
+836,Recreation and culture,2000,Q4,28620,88010
+837,Recreation and culture,2001,Q1,25827,89145
+838,Recreation and culture,2001,Q2,27487,94706
+839,Recreation and culture,2001,Q3,30288,86469
+840,Recreation and culture,2001,Q4,29657,95587
+841,Recreation and culture,2002,Q1,26547,91689
+842,Recreation and culture,2002,Q2,28526,97367
+843,Recreation and culture,2002,Q3,31690,89680
+844,Recreation and culture,2002,Q4,31492,98521
+845,Recreation and culture,2003,Q1,29253,93035
+846,Recreation and culture,2003,Q2,31280,97915
+847,Recreation and culture,2003,Q3,33502,92709
+848,Recreation and culture,2003,Q4,33841,101905
+849,Recreation and culture,2004,Q1,32626,98238
+850,Recreation and culture,2004,Q2,34585,104987
+851,Recreation and culture,2004,Q3,36236,98764
+852,Recreation and culture,2004,Q4,36775,102974
+853,Recreation and culture,2005,Q1,34520,103561
+854,Recreation and culture,2005,Q2,35320,108073
+855,Recreation and culture,2005,Q3,36420,99365
+856,Recreation and culture,2005,Q4,36733,104195
+857,Recreation and culture,2006,Q1,36669,106893
+858,Recreation and culture,2006,Q2,35493,113052
+859,Recreation and culture,2006,Q3,37278,104132
+860,Recreation and culture,2006,Q4,41285,109051
+861,Recreation and culture,2007,Q1,38283,110747
+862,Recreation and culture,2007,Q2,40594,113898
+863,Recreation and culture,2007,Q3,41942,109104
+864,Recreation and culture,2007,Q4,46148,113284
+865,Recreation and culture,2008,Q1,42386,116295
+866,Recreation and culture,2008,Q2,43932,122233
+867,Recreation and culture,2008,Q3,41127,114443
+868,Recreation and culture,2008,Q4,45666,119391
+869,Recreation and culture,2009,Q1,40829,121836
+870,Recreation and culture,2009,Q2,44142,134980
+871,Recreation and culture,2009,Q3,42147,124649
+872,Recreation and culture,2009,Q4,48243,118040
+873,Recreation and culture,2010,Q1,42800,127202
+874,Recreation and culture,2010,Q2,44443,141846
+875,Recreation and culture,2010,Q3,40406,120435
+876,Recreation and culture,2010,Q4,55880,117517
+877,Recreation and culture,2011,Q1,41222,128932
+878,Recreation and culture,2011,Q2,45581,144947
+879,Recreation and culture,2011,Q3,43583,123036
+880,Recreation and culture,2011,Q4,61075,123436
+881,Recreation and culture,2012,Q1,47727,132059
+882,Recreation and culture,2012,Q2,48211,149305
+883,Recreation and culture,2012,Q3,47955,122069
+884,Recreation and culture,2012,Q4,65494,125091
+885,Recreation and culture,2013,Q1,51266,130618
+886,Recreation and culture,2013,Q2,52605,154779
+887,Recreation and culture,2013,Q3,49736,129562
+888,Recreation and culture,2013,Q4,68283,132333
+889,Recreation and culture,2014,Q1,55814,133101
+890,Recreation and culture,2014,Q2,53096,159908
+891,Recreation and culture,2014,Q3,50368,131335
+892,Recreation and culture,2014,Q4,73969,133051
+893,Recreation and culture,2015,Q1,62045,145787
+894,Recreation and culture,2015,Q2,61231,169230
+895,Recreation and culture,2015,Q3,52304,137781
+896,Recreation and culture,2015,Q4,80105,136804
+897,Recreation and culture,2016,Q1,67503,151630
+898,Recreation and culture,2016,Q2,70111,181355
+899,Recreation and culture,2016,Q3,54731,148338
+900,Recreation and culture,2016,Q4,81653,145789
+901,Recreation and culture,2017,Q1,66971,165036
+902,Recreation and culture,2017,Q2,68917,192050
+903,Recreation and culture,2017,Q3,55221,163398
+904,Recreation and culture,2017,Q4,85895,151353
+905,Recreation and culture,2018,Q1,69798,173982
+906,Recreation and culture,2018,Q2,72671,202749
+907,Recreation and culture,2018,Q3,57735,181589
+908,Recreation and culture,2018,Q4,89532,173287
+909,Recreation and culture,2019,Q1,75041,180592
+910,Recreation and culture,2019,Q2,77921,224097
+911,Recreation and culture,2019,Q3,61796,182963
+912,Recreation and culture,2019,Q4,95792,178437
+913,Recreation and culture,2020,Q1,70726,184015
+914,Recreation and culture,2020,Q2,25857,192942
+915,Recreation and culture,2020,Q3,28891,153300
+916,Recreation and culture,2020,Q4,48947,157353
+917,Recreation and culture,2021,Q1,46347,184300
+918,Recreation and culture,2021,Q2,29492,216890
+919,Recreation and culture,2021,Q3,35148,173902
+920,Recreation and culture,2021,Q4,68302,169067
+921,Recreation and culture,2022,Q1,54000,199045
+922,Recreation and culture,2022,Q2,40245,227947
+923,Recreation and culture,2022,Q3,51342,183821
+924,Recreation and culture,2022,Q4,79086,185341
+925,Recreation and culture,2023,Q1,69069,211854
+926,Recreation and culture,2023,Q2,48607,241975
+927,Recreation and culture,2023,Q3,59201,193200
+928,Recreation and culture,2023,Q4,84979,197688
+929,Recreation and culture,2024,Q1,75721,223050
+930,Recreation and culture,2024,Q2,56725,246599
+931,Recreation and culture,2024,Q3,61065,201200
+932,Recreation and culture,2024,Q4,92739,211202
+933,Recreation and culture,2025,Q1,82672,237869
+934,Recreation and culture,2025,Q2,60459,275624
+935,Recreation and culture,2025,Q3,,
+936,Recreation and culture,2025,Q4,,
+937,Education,2000,Q1,68071,88010
+938,Education,2000,Q2,73871,88010
+939,Education,2000,Q3,66421,88010
+940,Education,2000,Q4,76679,88010
+941,Education,2001,Q1,69031,89145
+942,Education,2001,Q2,74918,94706
+943,Education,2001,Q3,69083,86469
+944,Education,2001,Q4,80102,95587
+945,Education,2002,Q1,70709,91689
+946,Education,2002,Q2,77245,97367
+947,Education,2002,Q3,72224,89680
+948,Education,2002,Q4,82848,98521
+949,Education,2003,Q1,72335,93035
+950,Education,2003,Q2,78145,97915
+951,Education,2003,Q3,74467,92709
+952,Education,2003,Q4,86083,101905
+953,Education,2004,Q1,75350,98238
+954,Education,2004,Q2,81182,104987
+955,Education,2004,Q3,78775,98764
+956,Education,2004,Q4,92385,102974
+957,Education,2005,Q1,74980,103561
+958,Education,2005,Q2,84131,108073
+959,Education,2005,Q3,82401,99365
+960,Education,2005,Q4,97898,104195
+961,Education,2006,Q1,80611,106893
+962,Education,2006,Q2,88193,113052
+963,Education,2006,Q3,86551,104132
+964,Education,2006,Q4,101191,109051
+965,Education,2007,Q1,83183,110747
+966,Education,2007,Q2,89782,113898
+967,Education,2007,Q3,90758,109104
+968,Education,2007,Q4,106047,113284
+969,Education,2008,Q1,89558,116295
+970,Education,2008,Q2,97026,122233
+971,Education,2008,Q3,97974,114443
+972,Education,2008,Q4,113259,119391
+973,Education,2009,Q1,92134,121836
+974,Education,2009,Q2,98806,134980
+975,Education,2009,Q3,100926,124649
+976,Education,2009,Q4,117671,118040
+977,Education,2010,Q1,97621,127202
+978,Education,2010,Q2,98735,141846
+979,Education,2010,Q3,103569,120435
+980,Education,2010,Q4,120253,117517
+981,Education,2011,Q1,101941,128932
+982,Education,2011,Q2,104350,144947
+983,Education,2011,Q3,109195,123036
+984,Education,2011,Q4,128658,123436
+985,Education,2012,Q1,104403,132059
+986,Education,2012,Q2,108000,149305
+987,Education,2012,Q3,112595,122069
+988,Education,2012,Q4,130582,125091
+989,Education,2013,Q1,111403,130618
+990,Education,2013,Q2,111811,154779
+991,Education,2013,Q3,119660,129562
+992,Education,2013,Q4,136625,132333
+993,Education,2014,Q1,121826,133101
+994,Education,2014,Q2,119009,159908
+995,Education,2014,Q3,129669,131335
+996,Education,2014,Q4,146703,133051
+997,Education,2015,Q1,126681,145787
+998,Education,2015,Q2,120322,169230
+999,Education,2015,Q3,133991,137781
+1000,Education,2015,Q4,148674,136804
+1001,Education,2016,Q1,131597,151630
+1002,Education,2016,Q2,130503,181355
+1003,Education,2016,Q3,144184,148338
+1004,Education,2016,Q4,159106,145789
+1005,Education,2017,Q1,143681,165036
+1006,Education,2017,Q2,139161,192050
+1007,Education,2017,Q3,159920,163398
+1008,Education,2017,Q4,167607,151353
+1009,Education,2018,Q1,153649,173982
+1010,Education,2018,Q2,150327,202749
+1011,Education,2018,Q3,192036,181589
+1012,Education,2018,Q4,200520,173287
+1013,Education,2019,Q1,171582,180592
+1014,Education,2019,Q2,171985,224097
+1015,Education,2019,Q3,198878,182963
+1016,Education,2019,Q4,208784,178437
+1017,Education,2020,Q1,173995,184015
+1018,Education,2020,Q2,146841,192942
+1019,Education,2020,Q3,167277,153300
+1020,Education,2020,Q4,179018,157353
+1021,Education,2021,Q1,176602,184300
+1022,Education,2021,Q2,163051,216890
+1023,Education,2021,Q3,191320,173902
+1024,Education,2021,Q4,195092,169067
+1025,Education,2022,Q1,196958,199045
+1026,Education,2022,Q2,175167,227947
+1027,Education,2022,Q3,201724,183821
+1028,Education,2022,Q4,214361,185341
+1029,Education,2023,Q1,209215,211854
+1030,Education,2023,Q2,186084,241975
+1031,Education,2023,Q3,213148,193200
+1032,Education,2023,Q4,230920,197688
+1033,Education,2024,Q1,219970,223050
+1034,Education,2024,Q2,187916,246599
+1035,Education,2024,Q3,220808,201200
+1036,Education,2024,Q4,244892,211202
+1037,Education,2025,Q1,234653,237869
+1038,Education,2025,Q2,206181,275624
+1039,Education,2025,Q3,,
+1040,Education,2025,Q4,,
+1041,Restaurants and hotels,2000,Q1,100454,88010
+1042,Restaurants and hotels,2000,Q2,98235,88010
+1043,Restaurants and hotels,2000,Q3,104665,88010
+1044,Restaurants and hotels,2000,Q4,112459,88010
+1045,Restaurants and hotels,2001,Q1,105630,89145
+1046,Restaurants and hotels,2001,Q2,101332,94706
+1047,Restaurants and hotels,2001,Q3,108685,86469
+1048,Restaurants and hotels,2001,Q4,116616,95587
+1049,Restaurants and hotels,2002,Q1,111060,91689
+1050,Restaurants and hotels,2002,Q2,106558,97367
+1051,Restaurants and hotels,2002,Q3,116407,89680
+1052,Restaurants and hotels,2002,Q4,126387,98521
+1053,Restaurants and hotels,2003,Q1,114295,93035
+1054,Restaurants and hotels,2003,Q2,105636,97915
+1055,Restaurants and hotels,2003,Q3,118251,92709
+1056,Restaurants and hotels,2003,Q4,134281,101905
+1057,Restaurants and hotels,2004,Q1,122909,98238
+1058,Restaurants and hotels,2004,Q2,115807,104987
+1059,Restaurants and hotels,2004,Q3,129662,98764
+1060,Restaurants and hotels,2004,Q4,145713,102974
+1061,Restaurants and hotels,2005,Q1,129451,103561
+1062,Restaurants and hotels,2005,Q2,118923,108073
+1063,Restaurants and hotels,2005,Q3,129680,99365
+1064,Restaurants and hotels,2005,Q4,149620,104195
+1065,Restaurants and hotels,2006,Q1,135452,106893
+1066,Restaurants and hotels,2006,Q2,124099,113052
+1067,Restaurants and hotels,2006,Q3,132447,104132
+1068,Restaurants and hotels,2006,Q4,159222,109051
+1069,Restaurants and hotels,2007,Q1,151633,110747
+1070,Restaurants and hotels,2007,Q2,137123,113898
+1071,Restaurants and hotels,2007,Q3,150504,109104
+1072,Restaurants and hotels,2007,Q4,166243,113284
+1073,Restaurants and hotels,2008,Q1,157706,116295
+1074,Restaurants and hotels,2008,Q2,139873,122233
+1075,Restaurants and hotels,2008,Q3,151690,114443
+1076,Restaurants and hotels,2008,Q4,172372,119391
+1077,Restaurants and hotels,2009,Q1,164311,121836
+1078,Restaurants and hotels,2009,Q2,147703,134980
+1079,Restaurants and hotels,2009,Q3,156900,124649
+1080,Restaurants and hotels,2009,Q4,175335,118040
+1081,Restaurants and hotels,2010,Q1,170306,127202
+1082,Restaurants and hotels,2010,Q2,153597,141846
+1083,Restaurants and hotels,2010,Q3,166494,120435
+1084,Restaurants and hotels,2010,Q4,189602,117517
+1085,Restaurants and hotels,2011,Q1,177378,128932
+1086,Restaurants and hotels,2011,Q2,165813,144947
+1087,Restaurants and hotels,2011,Q3,181872,123036
+1088,Restaurants and hotels,2011,Q4,206611,123436
+1089,Restaurants and hotels,2012,Q1,195984,132059
+1090,Restaurants and hotels,2012,Q2,176867,149305
+1091,Restaurants and hotels,2012,Q3,193133,122069
+1092,Restaurants and hotels,2012,Q4,219704,125091
+1093,Restaurants and hotels,2013,Q1,211454,130618
+1094,Restaurants and hotels,2013,Q2,189184,154779
+1095,Restaurants and hotels,2013,Q3,203875,129562
+1096,Restaurants and hotels,2013,Q4,232351,132333
+1097,Restaurants and hotels,2014,Q1,225958,133101
+1098,Restaurants and hotels,2014,Q2,207840,159908
+1099,Restaurants and hotels,2014,Q3,221681,131335
+1100,Restaurants and hotels,2014,Q4,235313,133051
+1101,Restaurants and hotels,2015,Q1,246108,145787
+1102,Restaurants and hotels,2015,Q2,224065,169230
+1103,Restaurants and hotels,2015,Q3,247308,137781
+1104,Restaurants and hotels,2015,Q4,263116,136804
+1105,Restaurants and hotels,2016,Q1,269308,151630
+1106,Restaurants and hotels,2016,Q2,243693,181355
+1107,Restaurants and hotels,2016,Q3,261647,148338
+1108,Restaurants and hotels,2016,Q4,284812,145789
+1109,Restaurants and hotels,2017,Q1,289837,165036
+1110,Restaurants and hotels,2017,Q2,270681,192050
+1111,Restaurants and hotels,2017,Q3,287840,163398
+1112,Restaurants and hotels,2017,Q4,319429,151353
+1113,Restaurants and hotels,2018,Q1,316747,173982
+1114,Restaurants and hotels,2018,Q2,287983,202749
+1115,Restaurants and hotels,2018,Q3,304562,181589
+1116,Restaurants and hotels,2018,Q4,343675,173287
+1117,Restaurants and hotels,2019,Q1,336499,180592
+1118,Restaurants and hotels,2019,Q2,302536,224097
+1119,Restaurants and hotels,2019,Q3,325982,182963
+1120,Restaurants and hotels,2019,Q4,371009,178437
+1121,Restaurants and hotels,2020,Q1,288475,184015
+1122,Restaurants and hotels,2020,Q2,103669,192942
+1123,Restaurants and hotels,2020,Q3,155871,153300
+1124,Restaurants and hotels,2020,Q4,210823,157353
+1125,Restaurants and hotels,2021,Q1,235704,184300
+1126,Restaurants and hotels,2021,Q2,126134,216890
+1127,Restaurants and hotels,2021,Q3,175344,173902
+1128,Restaurants and hotels,2021,Q4,256717,169067
+1129,Restaurants and hotels,2022,Q1,283407,199045
+1130,Restaurants and hotels,2022,Q2,168506,227947
+1131,Restaurants and hotels,2022,Q3,244760,183821
+1132,Restaurants and hotels,2022,Q4,320911,185341
+1133,Restaurants and hotels,2023,Q1,351703,211854
+1134,Restaurants and hotels,2023,Q2,207143,241975
+1135,Restaurants and hotels,2023,Q3,282209,193200
+1136,Restaurants and hotels,2023,Q4,370170,197688
+1137,Restaurants and hotels,2024,Q1,393383,223050
+1138,Restaurants and hotels,2024,Q2,230233,246599
+1139,Restaurants and hotels,2024,Q3,310324,201200
+1140,Restaurants and hotels,2024,Q4,390877,211202
+1141,Restaurants and hotels,2025,Q1,417861,237869
+1142,Restaurants and hotels,2025,Q2,247192,275624
+1143,Restaurants and hotels,2025,Q3,,
+1144,Restaurants and hotels,2025,Q4,,
+1145,Miscellaneous goods and services,2000,Q1,136650,88010
+1146,Miscellaneous goods and services,2000,Q2,150525,88010
+1147,Miscellaneous goods and services,2000,Q3,134968,88010
+1148,Miscellaneous goods and services,2000,Q4,172197,88010
+1149,Miscellaneous goods and services,2001,Q1,144787,89145
+1150,Miscellaneous goods and services,2001,Q2,129614,94706
+1151,Miscellaneous goods and services,2001,Q3,142960,86469
+1152,Miscellaneous goods and services,2001,Q4,198519,95587
+1153,Miscellaneous goods and services,2002,Q1,155750,91689
+1154,Miscellaneous goods and services,2002,Q2,157773,97367
+1155,Miscellaneous goods and services,2002,Q3,175798,89680
+1156,Miscellaneous goods and services,2002,Q4,196181,98521
+1157,Miscellaneous goods and services,2003,Q1,184730,93035
+1158,Miscellaneous goods and services,2003,Q2,160984,97915
+1159,Miscellaneous goods and services,2003,Q3,178304,92709
+1160,Miscellaneous goods and services,2003,Q4,206639,101905
+1161,Miscellaneous goods and services,2004,Q1,200203,98238
+1162,Miscellaneous goods and services,2004,Q2,142734,104987
+1163,Miscellaneous goods and services,2004,Q3,183474,98764
+1164,Miscellaneous goods and services,2004,Q4,225151,102974
+1165,Miscellaneous goods and services,2005,Q1,195307,103561
+1166,Miscellaneous goods and services,2005,Q2,156732,108073
+1167,Miscellaneous goods and services,2005,Q3,184300,99365
+1168,Miscellaneous goods and services,2005,Q4,221512,104195
+1169,Miscellaneous goods and services,2006,Q1,202134,106893
+1170,Miscellaneous goods and services,2006,Q2,180968,113052
+1171,Miscellaneous goods and services,2006,Q3,202546,104132
+1172,Miscellaneous goods and services,2006,Q4,217829,109051
+1173,Miscellaneous goods and services,2007,Q1,194217,110747
+1174,Miscellaneous goods and services,2007,Q2,183092,113898
+1175,Miscellaneous goods and services,2007,Q3,204653,109104
+1176,Miscellaneous goods and services,2007,Q4,241439,113284
+1177,Miscellaneous goods and services,2008,Q1,205456,116295
+1178,Miscellaneous goods and services,2008,Q2,184856,122233
+1179,Miscellaneous goods and services,2008,Q3,218681,114443
+1180,Miscellaneous goods and services,2008,Q4,248756,119391
+1181,Miscellaneous goods and services,2009,Q1,209399,121836
+1182,Miscellaneous goods and services,2009,Q2,202743,134980
+1183,Miscellaneous goods and services,2009,Q3,209741,124649
+1184,Miscellaneous goods and services,2009,Q4,261463,118040
+1185,Miscellaneous goods and services,2010,Q1,227993,127202
+1186,Miscellaneous goods and services,2010,Q2,207884,141846
+1187,Miscellaneous goods and services,2010,Q3,216096,120435
+1188,Miscellaneous goods and services,2010,Q4,271178,117517
+1189,Miscellaneous goods and services,2011,Q1,239618,128932
+1190,Miscellaneous goods and services,2011,Q2,223851,144947
+1191,Miscellaneous goods and services,2011,Q3,242344,123036
+1192,Miscellaneous goods and services,2011,Q4,303287,123436
+1193,Miscellaneous goods and services,2012,Q1,257544,132059
+1194,Miscellaneous goods and services,2012,Q2,252567,149305
+1195,Miscellaneous goods and services,2012,Q3,255718,122069
+1196,Miscellaneous goods and services,2012,Q4,345417,125091
+1197,Miscellaneous goods and services,2013,Q1,278583,130618
+1198,Miscellaneous goods and services,2013,Q2,273124,154779
+1199,Miscellaneous goods and services,2013,Q3,273383,129562
+1200,Miscellaneous goods and services,2013,Q4,365385,132333
+1201,Miscellaneous goods and services,2014,Q1,295930,133101
+1202,Miscellaneous goods and services,2014,Q2,286911,159908
+1203,Miscellaneous goods and services,2014,Q3,281941,131335
+1204,Miscellaneous goods and services,2014,Q4,380781,133051
+1205,Miscellaneous goods and services,2015,Q1,303121,145787
+1206,Miscellaneous goods and services,2015,Q2,303224,169230
+1207,Miscellaneous goods and services,2015,Q3,311111,137781
+1208,Miscellaneous goods and services,2015,Q4,416214,136804
+1209,Miscellaneous goods and services,2016,Q1,327544,151630
+1210,Miscellaneous goods and services,2016,Q2,325859,181355
+1211,Miscellaneous goods and services,2016,Q3,336475,148338
+1212,Miscellaneous goods and services,2016,Q4,451524,145789
+1213,Miscellaneous goods and services,2017,Q1,353024,165036
+1214,Miscellaneous goods and services,2017,Q2,349562,192050
+1215,Miscellaneous goods and services,2017,Q3,358651,163398
+1216,Miscellaneous goods and services,2017,Q4,484456,151353
+1217,Miscellaneous goods and services,2018,Q1,379255,173982
+1218,Miscellaneous goods and services,2018,Q2,384155,202749
+1219,Miscellaneous goods and services,2018,Q3,396160,181589
+1220,Miscellaneous goods and services,2018,Q4,522454,173287
+1221,Miscellaneous goods and services,2019,Q1,408072,180592
+1222,Miscellaneous goods and services,2019,Q2,411337,224097
+1223,Miscellaneous goods and services,2019,Q3,434543,182963
+1224,Miscellaneous goods and services,2019,Q4,569614,178437
+1225,Miscellaneous goods and services,2020,Q1,439752,184015
+1226,Miscellaneous goods and services,2020,Q2,405446,192942
+1227,Miscellaneous goods and services,2020,Q3,442065,153300
+1228,Miscellaneous goods and services,2020,Q4,560665,157353
+1229,Miscellaneous goods and services,2021,Q1,438900,184300
+1230,Miscellaneous goods and services,2021,Q2,419233,216890
+1231,Miscellaneous goods and services,2021,Q3,470840,173902
+1232,Miscellaneous goods and services,2021,Q4,598947,169067
+1233,Miscellaneous goods and services,2022,Q1,475267,199045
+1234,Miscellaneous goods and services,2022,Q2,448084,227947
+1235,Miscellaneous goods and services,2022,Q3,508792,183821
+1236,Miscellaneous goods and services,2022,Q4,638995,185341
+1237,Miscellaneous goods and services,2023,Q1,517071,211854
+1238,Miscellaneous goods and services,2023,Q2,472035,241975
+1239,Miscellaneous goods and services,2023,Q3,551053,193200
+1240,Miscellaneous goods and services,2023,Q4,705407,197688
+1241,Miscellaneous goods and services,2024,Q1,545156,223050
+1242,Miscellaneous goods and services,2024,Q2,508423,246599
+1243,Miscellaneous goods and services,2024,Q3,590374,201200
+1244,Miscellaneous goods and services,2024,Q4,758934,211202
+1245,Miscellaneous goods and services,2025,Q1,568743,237869
+1246,Miscellaneous goods and services,2025,Q2,530414,275624
+1247,Miscellaneous goods and services,2025,Q3,,
+1248,Miscellaneous goods and services,2025,Q4,,
