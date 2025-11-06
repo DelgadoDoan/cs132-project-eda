@@ -137,48 +137,91 @@ yolanda = get_event_date(date(2013, 1, 1), date(2014, 1, 1), date(2013, 11, 3))
 covid = get_event_date(date(2020, 1, 1), date(2021, 1, 1), date(2020, 1, 30))
 
 # plot
-fig, ax1 = plt.subplots()
+# fig, ax1 = plt.subplots()
 
-# HFCE line
+# # HFCE line
+# sns.lineplot(
+#     data=df_educ, x='year_quarter', y='HFCE',
+#     ax=ax1, color=colors[1], linewidth=2, 
+#     label='HFCE (Education)', legend=False,
+# )
+
+# # GVA line
+# ax2 = ax1.twinx()
+# sns.lineplot(
+#     data=df_educ, x='year_quarter', y='GVA',
+#     ax=ax2, color=colors[2], linestyle='--', linewidth=2, 
+#     label='GVA', legend=False,
+# )
+
+# # axes labels
+# ax1.set_xlabel('Year')
+# ax1.set_ylabel('HFCE in Education (million pesos)')
+# ax2.set_ylabel('GVA (million pesos)')
+
+# # events
+# ax1.axvline(x=yolanda, color=color_text, linestyle=':', alpha=0.6)
+# ax1.text(yolanda + 0.1, ax1.get_ylim()[1]*0.9, 'Yolanda (2013)', color=color_text, fontsize=16)
+
+# ax1.axvline(x=covid, color=color_text, linestyle='--', alpha=0.6)
+# ax1.text(covid + 0.1, ax1.get_ylim()[1]*0.9, 'COVID-19 (2020)', color=color_text, fontsize=16)
+
+# # plot title
+# plt.title('Philippines Quarterly HFCE in Education and GVA (2000–2025)')
+# ax1.grid(alpha=0.2)
+
+# # legends
+# lines_1, labels_1 = ax1.get_legend_handles_labels()
+# lines_2, labels_2 = ax2.get_legend_handles_labels()
+# ax1.legend(
+#     lines_1 + lines_2, labels_1 + labels_2,
+# )
+
+# plt.tight_layout()
+
+# # save to plot dir
+# save_path = os.path.join(save_dir, "nutshell.png")
+# plt.savefig(save_path)
+
+plt.figure()
+
+# HFCE
 sns.lineplot(
-    data=df_educ, x='year_quarter', y='HFCE',
-    ax=ax1, color=colors[1], linewidth=2, 
-    label='HFCE (Education)', legend=False,
+    x=df_educ['year_quarter'],
+    y=df_educ['HFCE'],
+    label='HFCE in education',
+    color=colors[1],
+    linewidth=2,
 )
 
-# GVA line
-ax2 = ax1.twinx()
+# GVA
 sns.lineplot(
-    data=df_educ, x='year_quarter', y='GVA',
-    ax=ax2, color=colors[2], linestyle='--', linewidth=2, 
-    label='GVA', legend=False,
+    x=df_educ['year_quarter'],
+    y=df_educ['GVA'],
+    label='GVA',
+    color=colors[2],
+    linewidth=2,
+    linestyle='--',
 )
 
-# axes labels
-ax1.set_xlabel('Year')
-ax1.set_ylabel('HFCE in Education (million pesos)')
-ax2.set_ylabel('GVA (million pesos)')
+# intervention lines
+ax = plt.gca()
+plt.axvline(x=yolanda, color=color_text, linestyle=':', label='Yolanda (2013)')
+ax.text(yolanda + 0.1, ax.get_ylim()[1]*0.9, 'Yolanda (2013)', color=color_text, fontsize=14)
 
-# events
-ax1.axvline(x=yolanda, color=color_text, linestyle=':', alpha=0.6)
-ax1.text(yolanda + 0.1, ax1.get_ylim()[1]*0.9, 'Yolanda (2013)', color=color_text, fontsize=16)
+plt.axvline(x=covid, color=color_text, linestyle='--', label='COVID-19 (2020)')
+ax.text(covid + 0.1, ax.get_ylim()[1]*0.9, 'COVID-19 (2020)', color=color_text, fontsize=14)
 
-ax1.axvline(x=covid, color=color_text, linestyle='--', alpha=0.6)
-ax1.text(covid + 0.1, ax1.get_ylim()[1]*0.9, 'COVID-19 (2020)', color=color_text, fontsize=16)
-
-# plot title
+# labels
+plt.xlabel('Year')
+plt.ylabel('Amount in million pesos')
 plt.title('Philippines Quarterly HFCE in Education and GVA (2000–2025)')
-ax1.grid(alpha=0.2)
 
-# legends
-lines_1, labels_1 = ax1.get_legend_handles_labels()
-lines_2, labels_2 = ax2.get_legend_handles_labels()
-ax1.legend(
-    lines_1 + lines_2, labels_1 + labels_2,
-)
-
+# plot grid
+plt.grid(alpha=0.2)
 plt.tight_layout()
 
 # save to plot dir
 save_path = os.path.join(save_dir, "nutshell.png")
 plt.savefig(save_path)
+plt.close()
