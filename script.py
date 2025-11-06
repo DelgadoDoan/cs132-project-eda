@@ -39,11 +39,6 @@ df['year_quarter'] = df['Year'] + df['Quarter'].map(quarters_dict)
 # education HFCE
 df_educ = df[df['Type'] == 'Education'].copy()
 
-
-# |------------------------------------|
-# |----------- NUTSHELL PLOT ----------|
-# |------------------------------------|
-
 # helper func
 def get_event_date(start, end, event) -> float:
     return event.year + (event - start) / (end - start)
@@ -51,58 +46,6 @@ def get_event_date(start, end, event) -> float:
 # major crisis events
 yolanda = get_event_date(date(2013, 1, 1), date(2014, 1, 1), date(2013, 11, 3))
 covid = get_event_date(date(2020, 1, 1), date(2021, 1, 1), date(2020, 1, 30))
-
-# Dual axis time series chart
-fig, ax1 = plt.subplots(figsize=(12, 6))
-
-ax1.plot(
-    df_educ['year_quarter'], 
-    df_educ['HFCE'], 
-    label=df_educ['Type'].unique(), 
-    color='#1f77b4'
-)
-
-ax1.set_xlabel('Year')
-ax1.set_ylabel('HFCE in education (in million pesos)')
-ax1.tick_params(axis='y')
-
-ax2 = ax1.twinx()
-ax2.plot(
-    df_educ['year_quarter'], 
-    df_educ['GVA'], 
-    linestyle='--', 
-    label='GVA',
-    color='#ff7f0e',
-)
-
-ax2.set_ylabel('GVA (in million pesos)')
-ax2.tick_params(axis='y')
-
-lines_1, labels_1 = ax1.get_legend_handles_labels()
-lines_2, labels_2 = ax2.get_legend_handles_labels()
-
-ax1.legend(
-    lines_1 + lines_2,
-    labels_1 + labels_2,
-    loc='center left',
-    bbox_to_anchor=(1.2, 0.8),
-    borderaxespad=0,
-    fontsize='small'
-)
-
-# intervention lines
-ax1.axvline(x=yolanda, color='#2ca02c', linestyle='--', label='Yolanda (2013)')
-ax1.axvline(x=covid, color='#d62728', linestyle='--', label='COVID-19 (2020)')
-
-ax1.grid(True)
-
-plt.title('Philippines Quarterly HFCE in Education and GVA from 2000 to 2025')
-plt.tight_layout()
-
-# save to plot dir
-save_path = os.path.join(save_dir, "nutshell.png")
-plt.savefig(save_path, dpi=300, bbox_inches='tight')
-
 
 # |------------------------------------------|
 # |---------- TIME SERIES ANALYSIS ----------|
