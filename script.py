@@ -162,7 +162,7 @@ for i in range(12, 0, -1):
 # labels
 plt.xlabel('Year')
 plt.ylabel('HFCE (in million pesos)')
-plt.title('Philippines Quarterly HFCE (2000-2025)')
+plt.title('Philippines Quarterly HFCE on Different Types of Goods (2000-2025)')
 
 # add grid lines
 plt.grid(alpha=0.2)
