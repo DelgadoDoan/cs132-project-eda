@@ -273,14 +273,14 @@ corr,_ = pearsonr(
     df_educ['GVA'], 
 )
 
-print('Pearson\'s correlation: %.4f' % corr)
+print('Pearson\'s correlation coefficient: %.4f' % corr)
 
 corr_log,_ = pearsonr(
     df_educ['HFCE_log'], 
     df_educ['GVA_log'], 
 )
 
-print('Pearson\'s correlation (post-log): %.4f' % corr_log)
+print('Pearson\'s correlation coefficient (post-log): %.4f' % corr_log)
 print('')
 
 
